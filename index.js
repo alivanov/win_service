@@ -23,5 +23,5 @@ svc.on('uninstall', function() {
   //svc.install();
 });
 
-svc.uninstall();
-//svc.install();
+//svc.uninstall();
+svc.install();
